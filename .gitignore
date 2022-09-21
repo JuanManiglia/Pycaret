@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 *.log
-PyCaret.ipynb
+PyCaret_alumno.ipynb
+/catboost_info
